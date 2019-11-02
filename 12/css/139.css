@@ -1,0 +1,113 @@
+.type-139 .wrap {
+  width: 75%;
+}
+.type-139 .wrap .tab-content {
+  width: 100%;
+}
+.type-139 .wrap .tab-content #home .home-inner {
+  display: inline-block;
+  margin-top: 30px;
+  text-decoration: none;
+  margin: 20px 0px 25px 0px;
+  -webkit-font-smoothing: antialiased;
+  font-size: 12px;
+  width: 100%;
+  float: left;
+}
+.type-139 .wrap .tab-content #home .home-inner .share-link {
+  font-weight: 600;
+  margin-top: 5px;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-radius: 2px;
+  margin-right: 5px;
+  cursor: pointer;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+  -moz-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+  -webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+  display: inline-block;
+  text-decoration: none;
+}
+.type-139 .wrap .tab-content #home .home-inner .twitter {
+  background-color: #00aced;
+}
+.type-139 .wrap .tab-content #home .home-inner .twitter:hover {
+  background-color: #0084b4;
+}
+.type-139 .wrap .tab-content #home .home-inner .facebook {
+  background-color: #3B5997;
+}
+.type-139 .wrap .tab-content #home .home-inner .facebook:hover {
+  background-color: #2d4372;
+}
+.type-139 .wrap .tab-content #home .home-inner .linkedin {
+  background-color: #0074A1;
+}
+.type-139 .wrap .tab-content #home .home-inner .linkedin:hover {
+  background-color: #006288;
+}
+.type-139 .wrap .tab-content #home .home-inner .pinterest {
+  background-color: #bd081c;
+}
+.type-139 .wrap .tab-content #home .home-inner .pinterest:hover {
+  background-color: #a00818;
+}
+.type-139 .wrap .tab-content #home .home-inner img {
+  width: 17px;
+  margin-left: 9px;
+}
+.type-139 .wrap .nav li a {
+  font-size: 18px;
+}
+.type-139 .wrap .nav li a:hover {
+  background: #fff;
+}
+.type-139 .wrap .nav-tabs li.active a {
+  color: #000;
+  cursor: default;
+  background-color: #fff;
+  border-bottom: 2px solid #ddd;
+  border-bottom-color: orange;
+}
+.type-139 .wrap .nav-tabs li.active a:hover {
+  background: #fff;
+  text-decoration: none;
+}
+.type-139 .wrap .nav-tabs li a {
+  color: #515151;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0 0;
+}
+.type-139 .shop-attributes {
+  border-top: 1px dotted #e0e0e0;
+  background-color: transparent;
+  width: 100%;
+}
+.type-139 .shop-attributes th {
+  width: 150px;
+  border-bottom: 1px dotted #e0e0e0;
+  line-height: 1.3em;
+}
+.type-139 .shop-attributes td {
+  border-bottom: 1px dotted #e0e0e0;
+  line-height: 1.3em;
+}
+@media only screen and (max-width: 700px) {
+  .type-139 .wrap {
+    width: 100%;
+  }
+  .type-139 .wrap ul li {
+    width: 100%;
+  }
+  .type-139 .wrap .tab-content {
+    width: 100%;
+  }
+  .type-139 .wrap .tab-content #home .home-inner .share-link {
+    width: 100%;
+  }
+}
