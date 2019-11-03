@@ -13,26 +13,26 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/module1.less', 'css/module1.css');
+$less->compileFile('less/module8.less', 'css/module8.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>module1</title>
+        <title>module8</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo $url_path ?>/css/module1.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path ?>/css/module8.css" rel="stylesheet" type="text/css" />
         
         <?php
         if (!class_exists('lessc')) {
             include ('./libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/module1.less', 'css/module1.css');
+        $less->compileFile('less/module8.less', 'css/module8.css');
         ?>
     </head>
     <body >
-        <?php include '../module1/module1-content.php'; ?>
+        <?php include '../8/module8-content.php'; ?>
     </body>
 </html>
