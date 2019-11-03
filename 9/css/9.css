@@ -6,10 +6,18 @@
   background: white;
   padding-bottom: 25px;
 }
+.type-9 .khung3 {
+  background: white;
+  padding-bottom: 1px;
+}
+.type-9 .khung2 {
+  background: white;
+  padding-bottom: 1px;
+  margin-top: 21px;
+}
 .type-9 .khung1 {
   background: white;
   padding-bottom: 25px;
-  padding-top: 25px;
   margin-top: 21px;
 }
 .type-9 .container {
