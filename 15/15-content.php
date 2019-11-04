@@ -16,7 +16,7 @@ $url_path = str_replace('\\', '/', $url_path);
     <div class="container">
         <div class="title"><h3>Related Posts</h3></div>
         <div class="row">
-            <div class="col-md-3 col-sm-12 col-xs-3 blog-1">
+            <div class="col-md-3 col-sm-12 col-xs-12 blog-1">
                 <div class="post-blog">
                     <a href="">
                         <img src="images/post-1.png">
@@ -31,7 +31,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                 </div>    
             </div>
-            <div class="col-md-3 col-sm-12 col-xs-3 blog-2">
+            <div class="col-md-3 col-sm-12 col-xs-12 blog-2">
                 <div class="post-blog">
                     <a href="">
                         <img src="images/post-2.png">
@@ -46,7 +46,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                 </div>    
             </div>
-            <div class="col-md-3 col-sm-12 col-xs-3 blog-3">
+            <div class="col-md-3 col-sm-12 col-xs-12 blog-3">
                 <div class="post-blog">
                     <a href="">
                         <img src="images/post-3.png">

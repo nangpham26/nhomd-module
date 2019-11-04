@@ -77,3 +77,21 @@
     margin-left: 150px;
   }
 }
+@media only screen and (max-width: 320px) {
+  .type-15 .post-blog img {
+    width: 283px;
+    height: 102px;
+  }
+  .type-15 .post-blog {
+    margin-left: -5px;
+  }
+  .type-15 .entry-title {
+    margin-left: 130px;
+  }
+  .type-15 .entry-day {
+    margin-left: 130px;
+  }
+  .type-15 .title h3 {
+    margin-left: 10px;
+  }
+}
