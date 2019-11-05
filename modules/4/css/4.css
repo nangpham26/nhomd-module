@@ -1,0 +1,21 @@
+.type-4 {
+  overflow: hidden;
+}
+.type-4 .khung {
+  text-align: center;
+}
+.type-4 .container {
+  border-top: #ccc solid 1px;
+  margin-top: 74px;
+  padding-top: 46px;
+  border-bottom: #ccc solid 1px;
+  padding-bottom: 64px;
+}
+.type-4 h3 {
+  font-weight: bolder;
+}
+.type-4 .chu {
+  color: #7f7f7f;
+  font-size: 15px;
+  text-align: center;
+}

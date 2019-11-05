@@ -1,0 +1,66 @@
+.container {
+  background: #181818;
+}
+.type-6 .row {
+  padding: 0;
+  margin: 0;
+}
+.type-6 .wrap {
+  background: #181818;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.type-6 .wrap .title {
+  font-family: 'lato', helvetica, 'helvetica neue', arial, sans-serif;
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-weight: 700;
+  font-size: 17px;
+}
+.type-6 .wrap .des {
+  color: #a3a3a3;
+  font-size: 14px;
+}
+.type-6 .site-info .desfooter {
+  color: #fff;
+  float: left;
+}
+.type-6 .site-info .desfooter a {
+  text-decoration: none;
+  color: #fab526;
+  font-weight: 600;
+}
+.type-6 .site-info .desfooter .destheme {
+  cursor: pointer;
+  text-decoration: none;
+  color: #fab526;
+  font-weight: 600;
+}
+.type-6 .site-info .desfooter a:hover {
+  text-decoration: none;
+  color: #fab526;
+  font-weight: 600;
+}
+.type-6 .site-info .footer-menu {
+  float: right;
+}
+.type-6 .site-info .footer-menu ul {
+  float: right;
+  padding: 0;
+  list-style: none;
+}
+.type-6 .site-info .footer-menu ul li {
+  display: inline-block;
+  margin-right: .5em;
+}
+.type-6 .site-info .footer-menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
