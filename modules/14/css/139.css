@@ -1,0 +1,41 @@
+@import "../../var/var.less";
+.type-139 .select-sort {
+  float: right;
+}
+.type-139 .hinh-sp {
+  margin-bottom: 20px;
+}
+.type-139 .name-sp {
+  font-size: 1.4em;
+  font-weight: bold;
+  text-align: center;
+}
+.type-139 .price {
+  font-size: 90%;
+  text-align: center;
+}
+.type-139 .pages-select {
+  text-align: center;
+}
+.type-139 .widget-title {
+  border-bottom: 1px solid #ccd0d4;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.type-139 .product-categories {
+  list-style: none;
+  margin-left: -40px;
+}
+.type-139 .product-categories li {
+  margin-bottom: 20px;
+}
+.type-139 .product-categories a {
+  text-decoration: none;
+  color: #727272;
+}
+.type-139 .btn-search {
+  background: #f5ba14;
+  border: none;
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+  color: #fff;
+}
