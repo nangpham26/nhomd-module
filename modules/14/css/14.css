@@ -1,0 +1,39 @@
+@import "../../var/var.less";
+.type-14 .search-form {
+  width: 300px;
+  height: 40px;
+  margin-top: 10px;
+}
+.type-14 .search-field {
+  width: 200px;
+  height: 40px;
+  box-shadow: -1px 1px 10px rgba(0,0,0,0.1);
+  border: #fff;
+  padding: 10px;
+}
+.type-14 .product-search button {
+  width: 100px;
+  height: 40px;
+  background: #f5ba14;
+  color: #fff;
+  margin-left: -5px;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: -1px 1px 10px rgba(0,0,0,0.1);
+}
+.type-14 .widget-title {
+  border-bottom: 1px solid #ccd0d4;
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin-top: 40px;
+}
+.type-14 .product-categories {
+  list-style: none;
+  margin-left: -40px;
+}
+.type-14 .product-categories li {
+  margin-bottom: 20px;
+}
+.type-14 .product-categories a {
+  text-decoration: none;
+  color: #727272;
+}
