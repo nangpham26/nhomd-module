@@ -13,26 +13,44 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/module8.less', 'css/module8.css');
+$less->compileFile('less/22.less', 'css/22.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>module8</title>
+        <title>module22</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo $url_path ?>/css/module8.css" rel="stylesheet" type="text/css" />
-        
+        <link href="<?php echo $url_path ?>/css/22.css" rel="stylesheet" type="text/css" />
+        <script src="<?php echo $url_path ?>/js/fontawesome-all.min.js"></script>
+        <script src="https://code.jquery.com/jquery-latest.js"></script>
+
+        <script>
+            $(function(){
+                $('.cart-preview').hide();
+                $('.cart-header').hover(function(){
+                $('.cart-preview').show(); 
+                });
+                $('body').hover(function(){
+                $('.cart-preview').hide(); 
+                });
+                $('.dropdown').hover(function(){
+                $('.cart-preview').hide(); 
+                });
+                
+        });
+        </script>
+
         <?php
         if (!class_exists('lessc')) {
             include ('./libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/module8.less', 'css/module8.css');
+        $less->compileFile('less/22.less', 'css/22.css');
         ?>
     </head>
     <body >
-        <?php include '../8/module8-content.php'; ?>
+        <?php include '../22/22-content.php'; ?>
     </body>
 </html>
