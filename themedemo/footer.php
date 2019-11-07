@@ -1,0 +1,1 @@
+<?php get_template_part('module/6', 'content')?>
