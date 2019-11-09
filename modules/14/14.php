@@ -18,19 +18,12 @@ $less->compileFile('less/14.less', 'css/14.css');
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>module 14</title>
+        <title>14</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="<?php echo $url_path ?>/css/14.css" rel="stylesheet" type="text/css" />
         
-        <?php
-        if (!class_exists('lessc')) {
-            include ('./libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/14.less', 'css/14.css');
-        ?>
     </head>
     <body >
         <?php include '../14/14-content.php'; ?>

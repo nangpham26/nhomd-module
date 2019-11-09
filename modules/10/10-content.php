@@ -23,7 +23,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <h4 class="widget-title">Popular Blog Posts</h4>
             <div class="row fix-row">
                 <div class="col-md-3 fix-size col-xs-3 col-sm-3">
-                    <img src="../10/images/2.png" alt="hinh" class="img-responsive">
+                    <img src="../10/images/10-1.png" alt="hinh" class="img-responsive">
                 </div>
                 <div class="col-md-9 fix-size1 col-xs-9 col-sm-9">
                 <span class="sub-title">How to Function at Work Withou…</span>
@@ -35,7 +35,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <div class="row fix-row">
                 <div class="col-md-3 fix-size col-xs-3">
-                    <img src="../10/images/4.jpeg" alt="hinh" class="img-responsive">
+                    <img src="../10/images/10-2.png" alt="hinh" class="img-responsive">
                 </div>
                 <div class="col-md-9 fix-size1 col-xs-9">
                 <span class="sub-title">How to End Your Emails</span>
@@ -47,7 +47,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <div class="row fix-row">
                 <div class="col-md-3 fix-size col-xs-3">
-                    <img src="../10/images/3.png" alt="hinh" class="img-responsive">
+                    <img src="../10/images/10-3.png" alt="hinh" class="img-responsive">
                 </div>
                 <div class="col-md-9 fix-size1 col-xs-9">
                 <span class="sub-title">What to Wear to a Business Par…</span>
@@ -59,7 +59,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <div class="row fix-row">
                 <div class="col-md-3 fix-size col-xs-3">
-                    <img src="../10/images/1.png" alt="hinh" class="img-responsive" >
+                    <img src="../10/images/10-4.png" alt="hinh" class="img-responsive" >
                 </div>
                 <div class="col-md-9 fix-size1 col-xs-9">
                 <span class="sub-title">Protect Your Skin Against Wint…</span>
