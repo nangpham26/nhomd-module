@@ -32,12 +32,14 @@
 }
 .type-20 .button {
   text-align: center;
-  margin-top: 23px;
+  margin: 23px 0;
 }
 .type-20 .send {
   text-align: center;
-  background: #f5ba14;
-  border: none;
-  color: #fff;
-  font-size: 17px;
+    background: #f5ba14;
+    border: none;
+    border-radius: 5%;
+    padding: 15px 25px;
+    color: #fff;
+    font-size: 17px;
 }

@@ -11,8 +11,7 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<div class="type-module8">
-    <div class="container">
+<div class="type-module8" style="margin-top: 25%;">
         <section class="search-form">
             <form method="get" class="product-search" action="#">
                 <input type="search"  class="search-field" placeholder="Search products…" value="" name="s">
@@ -36,5 +35,5 @@ $url_path = str_replace('\\', '/', $url_path);
                 <li class="cat-item cat-item-36"><a href="#">Vintage</a></li>
             </ul>
         </section>
-    </div>   
+      
 </div>

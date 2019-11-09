@@ -14,7 +14,7 @@ $url_path = str_replace('\\', '/', $url_path);
 <div class="type-20">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <h1>Contact Us</h1>
                 <p>Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales. Nunc eget lacinia eros, ut tincidunt nunc. Quisque volutpat, enim id volutpat interdum, purus odio euismod neque, sit amet faucibus justo dolor tincidunt dui. Nulla facilisi. Phasellus in tincidunt lacus, in gravida ipsum. Cras id vehicula est, tincidunt pellentesque magna. Etiam porttitor nulla urna, quis vulputate justo euismod ac. Nunc viverra sollicitudin fringilla.</p>
                 <label class="chu"> Your Name (required)</label><br>
@@ -29,7 +29,6 @@ $url_path = str_replace('\\', '/', $url_path);
                     <a href="" class="send">Send</a>
                 </div>
             </div>
-            <div class="col-md-4"></div>
         </div>
     </div> 
 </div>

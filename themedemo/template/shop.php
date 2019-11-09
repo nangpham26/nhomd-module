@@ -1,3 +1,6 @@
+<?php
+ /*Template Name: shop */
+?>
 <?php get_header(); ?>
 <div class="aaa" style="background:#eee;">
         <div class="container">

@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="type-139">
-    <div class="container">
+    
         <div class="title-shop"><h1>Shop</h1></div>
         <div class="row">
             <div class="col-md-9">
@@ -42,7 +42,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <div class="col-md-9 col-xs-12 col-sm-8 ">
                 <div class="col-md-4 col-xs-12 col-sm-6" >
                     <div class="product">
-                        <a href="#" class="img-product"><img src="./images/1.jpg" alt="" class="img-responsive"></a>
+                        <a href="#" class="img-product"><img src="<?php bloginfo('template_directory')?>/images/2.jpg" alt="" class="img-responsive"></a>
                         <a href="#" class="button-product">Add to cart</a>
                         <a href="#" class="product-title">
                             <h2>White Summer Dress</h2>
@@ -52,7 +52,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
                 <div class="col-md-4 col-xs-12 col-sm-6" >
                     <div class="product">
-                        <a href="#" class="img-product"><img src="./images/2.jpg" alt="" class="img-responsive"></a>
+                        <a href="#" class="img-product"><img src="<?php bloginfo('template_directory')?>/images/3.jpg" alt="" class="img-responsive"></a>
                         <a href="#" class="button-product">Add to cart</a>
                         <a href="#" class="product-title">
                             <h2>White Summer Dress</h2>
@@ -62,7 +62,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
                 <div class="col-md-4 col-xs-12 col-sm-6" >
                     <div class="product">
-                        <a href="#" class="img-product"><img src="./images/3.jpg" alt="" class="img-responsive"></a>
+                        <a href="#" class="img-product"><img src="<?php bloginfo('template_directory')?>/images/2.jpg" alt="" class="img-responsive"></a>
                         <a href="#" class="button-product">Add to cart</a>
                         <a href="#" class="product-title">
                             <h2>White Summer Dress</h2>
@@ -91,5 +91,5 @@ $url_path = str_replace('\\', '/', $url_path);
                 </nav>
             </div>      
         </div>
-    </div>   
+       
 </div>

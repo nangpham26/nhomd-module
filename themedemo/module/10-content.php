@@ -1,5 +1,5 @@
 <div class="type-10" style="margin-top: 10%; background:#fff;">
-        <div class="container">
+        <div class="container" style="padding:0">
             <h4 class="widget-title">Popular Blog Posts</h4>
             <div class="row fix-row">
                 <div class="col-md-3 fix-size col-xs-3 col-sm-3">
