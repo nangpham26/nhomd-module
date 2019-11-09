@@ -11,12 +11,7 @@
   width: 100%;
   font-family: 'lato', helvetica, 'helvetica neue', arial, sans-serif;
 }
-.type-10 .fix-size {
-  width: 10%;
-}
-.type-10 .fix-size1 {
-  width: 24%;
-}
+
 .type-10 .fix-size1 .sub-title {
   font-size: 14px ! important;
   color: #333 !important;

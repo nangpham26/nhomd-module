@@ -13,4 +13,4 @@
 </head>
 <body <?php body_class( 'woocommerce' ); ?> > <!--Thêm class tượng trưng cho mỗi trang lên <body> để tùy biến-->
      
-<?php     get_template_part('module/2', 'content');   ?>
+<?php     get_template_part('module/module1', 'content');   ?>

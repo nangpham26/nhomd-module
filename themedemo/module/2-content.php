@@ -1,4 +1,4 @@
-<?php get_template_part('module/module1', 'content')?>
+
 <div class="type-2">
     <div class="header container-fluid">
         <div class="header-slideshow swiper-container">
@@ -31,4 +31,4 @@
         </div>
     </div>
 </div>
-<?php get_template_part('module/3','content'); ?>  
+

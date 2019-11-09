@@ -27,4 +27,4 @@
     </div>
 </div>
 
-<?php get_template_part('module/5','content');?>
+

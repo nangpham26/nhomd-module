@@ -53,4 +53,3 @@
         <hr class="separator">
     </div>
 </div>
-<?php get_template_part('module/4','content')?>
